@@ -1,2 +1,3 @@
 # hello-world
-My first repository and test.
+
+Hi guys just testing out my first branch off my master here.
